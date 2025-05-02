@@ -90,7 +90,7 @@ a:hover {
     transition: all 0.375s;
 }
 
-@keyframes animatedBackground {
+@keyframes AnimatedBackground {
     100% {
       background-position: 15% 50%;
     }
